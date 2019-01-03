@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Balance check USSD code",
+    "ussd": "*121#"
+  },
+  {
+    "title": "Internet Balance check code",
+    "ussd": "*125#"
+  },
+  {
+    "title": "Balance transfer ussd code",
+    "ussd": "*191#"
+  },
+  {
+    "title": "Idea Loan Code - Rs.10 Loan",
+    "ussd": "*150*10#"
+  },
+  {
+    "title": "Idea Loan Code - Rs.20 Loan",
+    "ussd": "*150*20#"
+  },
+  {
+    "title": "Requests and Complaints Helpline Number",
+    "ussd": "198"
+  },
+  {
+    "title": "Customer care number of India",
+    "ussd": "12345"
+  },
+  {
+    "title": "Best offer check (Latest best offer)",
+    "ussd": "*121#"
+  },
+  {
+    "title": "Find Idea Phone number (Know mobile no)",
+    "ussd": "*131*1#"
+  },
+  {
+    "title": "Idea Last Recharge Details Check",
+    "ussd": "*121*4*1*5#"
+  }
+]

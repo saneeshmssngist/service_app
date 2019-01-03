@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Tata Sky Helpline Numbers",
+    "phone": "18602086633",
+    "description": "Other Numbers : 18602086633, 18601206633 & 18605006633",
+    "status": "0"
+  },
+  {
+    "title": "Tata Sky balance check",
+    "phone": "8880488804",
+    "description": "Give a missed call on 8880488804",
+    "status": "0"
+  },
+  {
+    "title": "Tata Sky : To recharge -",
+    "phone": "56633",
+    "description": "RC <space> <16-digit recharge PIN>",
+    "status": "1"
+  },
+  {
+    "title": "Tata Sky : To order a movie on Showcase- ",
+    "phone": "56633",
+    "description": "SC <space> <event code>",
+    "status": "1"
+  },
+  {
+    "title": "Tata Sky : To get account balance and due date - ",
+    "phone": "56633",
+    "description": "BD",
+    "status": "1"
+  },
+  {
+    "title": "Tata Sky : To find your nearest Authorized Partner- ",
+    "phone": "56633",
+    "description": "DL <space> <your pincode>",
+    "status": "1"
+  },
+  {
+    "title": "Tata Sky : To know detail of your subscribed packs and their prices - ",
+    "phone": "56633",
+    "description": "PACK",
+    "status": "1"
+  },
+  {
+    "title": "Tata Sky : To subscribe to Add-On packages- ",
+    "phone": "56633",
+    "description": "ADD <space> <Package code>",
+    "status": "1"
+  },
+  {
+    "title": "Tata Sky : To drop existing add on pack- ",
+    "phone": "56633",
+    "description": "DROP <space> <Package code>",
+    "status": "1"
+  }
+]

@@ -1,0 +1,37 @@
+<tabs>
+
+
+    <tab
+        id="@+id/progressing"
+        title="Telecom Service"
+        icon="@drawable/mobile_new"
+        barColorWhenSelected="#ffffff"
+        inActiveColor="#606060"
+        activeColor="@color/bottombar"
+        />
+    <tab
+        id="@+id/notstarted"
+        title="Bank Service"
+        icon="@drawable/bank1"
+        barColorWhenSelected="#ffffff"
+        badgeBackgroundColor="#a11793"
+        activeColor="@color/bottombar"
+        />
+    <tab
+        id="@+id/completed"
+        title="DTH Service"
+        icon="@drawable/dth_new"
+        barColorWhenSelected="#ffffff"
+        inActiveColor="#606060"
+        activeColor="@color/bottombar"
+        />
+    <tab
+        id="@+id/delivered"
+        title="Travel Service"
+        icon="@drawable/travel"
+        barColorWhenSelected="#ffffff"
+        inActiveColor="#606060"
+        activeColor="@color/bottombar"
+        />
+
+</tabs>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ServiceApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bank_info_view">BankInfoViewActivity</string>
+    <string name="title_activity_bank_ifsc">BankIFSCActivity</string>
+    <string name="title_activity_bank_ussd">BankUSSDActivity</string>
+    <string name="title_activity_phone_info_view">PhoneInfoViewActivity</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="APPID">ca-app-pub-5847774043131331~7521610725</string>
+    <string name="BANNERID">ca-app-pub-5847774043131331/8369031804</string>
+
+</resources>

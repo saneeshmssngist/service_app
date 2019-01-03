@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Balance check USSD code",
+    "ussd": "*333#"
+  },
+  {
+    "title": "Internet Balance check code",
+    "ussd": "*333*1*3#"
+  },
+  {
+    "title": "Internet SMS Balance check code",
+    "ussd": "*367*2#"
+  },
+  {
+    "title": "Caller Tune Activation Code",
+    "ussd": "*333*3*1*1#"
+  },
+  {
+    "title": "Deactivate Jio Caller Tune",
+    "ussd": "*333*3*1*2#"
+  },
+  {
+    "title": "Requests and Complaints Helpline Number",
+    "ussd": "1800 889 9999"
+  },
+  {
+    "title": "Customer care number of India",
+    "ussd": "1800 889 9999"
+  },
+  {
+    "title": "Know my Jio Number",
+    "ussd": "*1#"
+  },
+  {
+    "title": "Jio Last Recharge Details Check",
+    "ussd": "*121*4*1*5#"
+  }
+]

@@ -1,0 +1,1097 @@
+[
+  {
+    "img_name" :"mahesh_bank",
+    "bank_name": "A.P. Mahesh Co-op. Bank",
+    "bank_balance": {
+      "flag": 1,
+      "number": "09248077450",
+      "info": "Balance"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09248077450",
+      "info": "Mini"
+    },
+    "customer_no": "04024615296"
+  },
+  {
+    "img_name" :"abhyudaya_bank",
+    "bank_name": "Abhyudaya Co-op. Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "18004195511",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "",
+      "info": ""
+    },
+    "customer_no": "02224115047"
+  },
+  {
+    "img_name" :"abn_amro",
+    "bank_name": "ABN Amro Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "1800112224",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "1800112224",
+      "info": ""
+    },
+    "customer_no": "1800112224"
+  },
+  {
+    "img_name" :"adc_bank",
+    "bank_name": "ADC Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09289224010",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09227444420",
+      "info": "LATRAN <MPIN>"
+    },
+    "customer_no": "07927542608"
+  },
+  {
+    "img_name" :"akhand_anand_bank",
+    "bank_name": "Akhand Anand Co-op. Bank",
+    "bank_balance": {
+      "flag": 1,
+      "number": "09243000111",
+      "info": "BAL"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09243000111",
+      "info": "STM"
+    },
+    "customer_no": "02612532540"
+  },
+  {
+    "img_name" :"allhabad_bank",
+    "bank_name": "Allahabad Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09224150150",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "09224150150",
+      "info": ""
+    },
+    "customer_no": "1800226061"
+  },
+  {
+    "img_name" :"american_express",
+    "bank_name": "American Express",
+    "bank_balance": {
+      "flag": 0,
+      "number": "1800446630",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "",
+      "info": ""
+    },
+    "customer_no": "1800446630"
+  },
+  {
+    "img_name" :"andhra_bank",
+    "bank_name": "Andhra Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09223011300",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09223173924",
+      "info": "MINI <MPIN>"
+    },
+    "customer_no": "18004251515"
+  },
+  {
+    "img_name" :"anz_bank",
+    "bank_name": "ANZ Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "18002000269",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "",
+      "info": ""
+    },
+    "customer_no": "18002000269"
+  },
+  {
+    "img_name" :"axis_bank",
+    "bank_name": "Axis bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "18004195959",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "18004196969",
+      "info": ""
+    },
+    "customer_no": "18002335577"
+  },
+  {
+    "img_name" :"bandhan_bank",
+    "bank_name": "Bandhan Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09223008666",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "09223008777",
+      "info": ""
+    },
+    "customer_no": "180025888181"
+  },
+  {
+    "img_name" :"bank_of_baroda",
+    "bank_name": "Bank of Baroda - BOB",
+    "bank_balance": {
+      "flag": 0,
+      "number": "08468001111",
+      "info": "SMAAA"
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "08468001122",
+      "info": ""
+    },
+    "customer_no": "18001024455"
+  },
+  {
+    "img_name" :"bank_of_india",
+    "bank_name": "Bank of India - BOI",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09015135135",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09810558585",
+      "info": "TRANS<SMS password>"
+    },
+    "customer_no": "1800220229"
+  },
+  {
+    "img_name" :"bank_of_maharashtra",
+    "bank_name": "Bank of Maharashtra - BOM",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09222281818",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09223181818",
+      "info": "LATRAN<mpin>"
+    },
+    "customer_no": "18002334526"
+  },
+  {
+    "img_name" :"barclays_bank",
+    "bank_name": "Barclays Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "02260007888",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "",
+      "info": ""
+    },
+    "customer_no": "02260007888"
+  },
+  {
+    "img_name" :"bassein_catholic",
+    "bank_name": "Bassein Catholic Co-op. Bank",
+    "bank_balance": {
+      "flag": 1,
+      "number": "09222272407",
+      "info": "SBAL"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09222272407",
+      "info": "LST3"
+    },
+    "customer_no": "18002336000"
+  },
+  {
+    "img_name" :"canara_bank",
+    "bank_name": "Canara Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09015483483",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "09015734734",
+      "info": ""
+    },
+    "customer_no": "18004250018"
+  },
+  {
+    "img_name" :"central_bank_of_india",
+    "bank_name": "Central Bank of India - CBI",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09555244442",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "09555144441",
+      "info": ""
+    },
+    "customer_no": "18002001911"
+  },
+  {
+    "img_name" :"cirti_bank",
+    "bank_name": "City Bank",
+    "bank_balance": {
+      "flag": 1,
+      "number": "09880752484",
+      "info": "BAL< Last 4 digits of your debit card number >"
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "",
+      "info": ""
+    },
+    "customer_no": ""
+  },
+  {
+    "img_name" :"city_union",
+    "bank_name": "City Union Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09278177444",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "",
+      "info": ""
+    },
+    "customer_no": "04471225000"
+  },
+  {
+    "img_name" :"corporation_bank",
+    "bank_name": "Corporation Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09268892688",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "5667716",
+      "info": "CTRN"
+    },
+    "customer_no": "18004253555"
+  },
+  {
+    "img_name" :"cosmos_bank",
+    "bank_name": "Cosmos Bank",
+    "bank_balance": {
+      "flag": 1,
+      "number": "09225677755",
+      "info": "BAL (MMID)"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09225677755",
+      "info": "MINI (MMID)"
+    },
+    "customer_no": "18002330234"
+  },
+  {
+    "img_name" :"dcb_bank",
+    "bank_name": "DCB BANK",
+    "bank_balance": {
+      "flag": 0,
+      "number": "07506660011",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "0750660022",
+      "info": ""
+    },
+    "customer_no": "18002095363"
+  },
+  {
+    "img_name" :"dena_bank",
+    "bank_name": "Dena BANK",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09289356677",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "09278656677",
+      "info": ""
+    },
+    "customer_no": "18002336427"
+  },
+  {
+    "img_name" :"deutsche_bank",
+    "bank_name": "Deutsche BANK",
+    "bank_balance": {
+      "flag": 1,
+      "number": "561615",
+      "info": "Bal"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "561615",
+      "info": "TSA <last 4 digits of a/c>"
+    },
+    "customer_no": "18001236601"
+  },
+  {
+    "img_name" :"dhanlaxmi_bank",
+    "bank_name": "Dhanalaxmi BANK",
+    "bank_balance": {
+      "flag": 0,
+      "number": "08067747700",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "56161",
+      "info": "DLBTXN < Customer ID >"
+    },
+    "customer_no": "18004251747"
+  },
+  {
+    "img_name" :"dombivli_bank",
+    "bank_name": "Dombivli Nagari sahakari BANK Ltd.",
+    "bank_balance": {
+      "flag": 1,
+      "number": "09225525002",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09225525002",
+      "info": "LST3"
+    },
+    "customer_no": "18002331700"
+  },
+  {
+    "img_name" :"federal_bank",
+    "bank_name": "Federal Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "08431900900",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "08431600600",
+      "info": ""
+    },
+    "customer_no": "18004251199"
+  },
+  {
+    "img_name" :"gopinath_bank",
+    "bank_name": "Gopinath Patil Janata Sahakari Bank",
+    "bank_balance": {
+      "flag": 1,
+      "number": "09773466565",
+      "info": "SBAL"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "08431600600",
+      "info": "LST3"
+    },
+    "customer_no": "1800222511"
+  },
+  {
+    "img_name" :"hdfc_bank",
+    "bank_name": "HDFC Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "18002703333",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "18002703355",
+      "info": ""
+    },
+    "customer_no": "18004251332"
+  },
+  {
+    "img_name" :"hsbc_bank",
+    "bank_name": "HSBC Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "18001034722",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09611124722",
+      "info": "MINI NIR"
+    },
+    "customer_no": "18001034722"
+  },
+  {
+    "img_name" :"icici_bank",
+    "bank_name": "ICICI Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09594612612",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "09594613613",
+      "info": ""
+    },
+    "customer_no": "18001024242"
+  },
+  {
+    "img_name" :"idbi_bank",
+    "bank_name": "IDBI Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "18008431122",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "18008431133",
+      "info": ""
+    },
+    "customer_no": "18002001947"
+  },
+  {
+    "img_name" :"idfc",
+    "bank_name": "IDFC Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "18002700720",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "9289289960",
+      "info": "TXN < Last 4 digits of a/c >"
+    },
+    "customer_no": "18004194332"
+  },
+  {
+    "img_name" :"indian_bank",
+    "bank_name": "Indian Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09289592895",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09444394443",
+      "info": "LatRAN <MPIN>"
+    },
+    "customer_no": "180042500000"
+  },
+  {
+    "img_name" :"indian_overseas_bank",
+    "bank_name": "Indian Overseas Bank - IOB",
+    "bank_balance": {
+      "flag": 1,
+      "number": "08424022122",
+      "info": "BAL < Last 4 digits a/c>"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "08424022122",
+      "info": "MINI < Last 4 digits a/c >"
+    },
+    "customer_no": "18004254445"
+  },
+  {
+    "img_name" :"indusind_bank",
+    "bank_name": "IndusInd Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "18002741000",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09212299955",
+      "info": "MINI"
+    },
+    "customer_no": "18605005004"
+  },
+  {
+    "img_name" :"jalgaon_bank",
+    "bank_name": "Jalgaon Janata Sahakari Bank",
+    "bank_balance": {
+      "flag": 1,
+      "number": "09823212365",
+      "info": "BAL < Account No>"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09232213265",
+      "info": "LFT <Account No>"
+    },
+    "customer_no": "09823611181"
+  },
+  {
+    "img_name" :"janakalyan_bank",
+    "bank_name": "Janakalyan Sahakari Bank",
+    "bank_balance": {
+      "flag": 1,
+      "number": "09223178900",
+      "info": "SBAL < A/C Type> < A/C No.>"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09223178900",
+      "info": "LST3 < A/C Type> < A/C No.>"
+    },
+    "customer_no": "180022581"
+  },
+  {
+    "img_name" :"kallappanna_bank",
+    "bank_name": "Kallappanna Awade Ichalkaranji Janata Sahakari Bank",
+    "bank_balance": {
+      "flag": 1,
+      "number": "09225650117",
+      "info": "SBAL < A/C Type> < A/C No.>"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09225650117",
+      "info": "LST3 < A/C Type> < A/C No.>"
+    },
+    "customer_no": "180023368000"
+  },
+  {
+    "img_name" :"karnataka_bank",
+    "bank_name": "Karnataka Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "18004251445",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "18004251446",
+      "info": ""
+    },
+    "customer_no": "18004251444"
+  },
+  {
+    "img_name" :"karur_vysya_bank",
+    "bank_name": "Karur Vysya Bank - KVB",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09266292666",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "09266292665",
+      "info": ""
+    },
+    "customer_no": "18602001916"
+  },
+  {
+    "img_name" :"kotak_bank",
+    "bank_name": "Kodak Mahindra Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "18002740110",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09971056767",
+      "info": "TXN < Last 4 digits of A/C>"
+    },
+    "customer_no": "18602662666"
+  },
+  {
+    "img_name" :"lakshmi_vilas_bank",
+    "bank_name": "Lakshi Vilas Bank - LVB",
+    "bank_balance": {
+      "flag": 0,
+      "number": "08882441155",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09282441155",
+      "info": "LVB TXN Customer_id"
+    },
+    "customer_no": "18004252233"
+  },
+  {
+    "img_name" :"new_india_bank",
+    "bank_name": "New India Co-op. Bank",
+    "bank_balance": {
+      "flag": 1,
+      "number": "09870977191",
+      "info": "SBAL <Account No>"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09870977191",
+      "info": "LST3 <Account No>"
+    },
+    "customer_no": "02266586658"
+  },
+  {
+    "img_name" :"nkgsb_bank",
+    "bank_name": "NKGSB Co-op Bank",
+    "bank_balance": {
+      "flag": 1,
+      "number": "5667789",
+      "info": "SBAL"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "5667789",
+      "info": "LST3"
+    },
+    "customer_no": "02228602000"
+  },
+  {
+    "img_name" :"oriental_bank_of_commerce",
+    "bank_name": "Oriental Bank of Commerce - OBC",
+    "bank_balance": {
+      "flag": 0,
+      "number": "08067205757",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "08067205767",
+      "info": ""
+    },
+    "customer_no": "18001801235"
+  },
+  {
+    "img_name" :"punjab_and_sind_bank",
+    "bank_name": "Punjab & Sind bank - PSB",
+    "bank_balance": {
+      "flag": 0,
+      "number": "07039035156",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09773056161",
+      "info": "PTXN <Account No> <SMS-Banking-Password>"
+    },
+    "customer_no": "18004198300"
+  },
+  {
+    "img_name" :"punjab_national_bank",
+    "bank_name": "Punjab National Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "1800180223",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "5607040",
+      "info": "MINSTMT <16 digit Account Number>"
+    },
+    "customer_no": "18001802222"
+  },
+  {
+    "img_name" :"rbl_bank",
+    "bank_name": "RBL Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "18004190610",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09223366333",
+      "info": "TXN <Customer Id>"
+    },
+    "customer_no": "18001238040"
+  },
+  {
+    "img_name" :"rbs",
+    "bank_name": "Royal Bank of Scotland",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09227148472",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "",
+      "info": ""
+    },
+    "customer_no": "1800112224"
+  },
+  {
+    "img_name" :"sangli_bank",
+    "bank_name": "Sangli Urban Co-op. Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09403782800",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09403782800",
+      "info": "L5 <Account No>"
+    },
+    "customer_no": "02332376236"
+  },
+  {
+    "img_name" :"saraswat_bank",
+    "bank_name": "Saraswat Co-op. Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09223040000",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "09223501111",
+      "info": ""
+    },
+    "customer_no": "1800229999"
+  },
+  {
+    "img_name" :"sardar_bhiladwala",
+    "bank_name": "Sardar Bhiladwala Pardi Peoples Co-op. Bank",
+    "bank_balance": {
+      "flag": 1,
+      "number": "09274092740",
+      "info": "SBAL"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09274092740",
+      "info": "LST3"
+    },
+    "customer_no": "02602373528"
+  },
+  {
+    "img_name" :"south_indian_bank",
+    "bank_name": "South Indian Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09223008488",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09840777222",
+      "info": "TRN <Customer Id>"
+    },
+    "customer_no": "18008431800"
+  },
+  {
+    "img_name" :"standard_chartered_bank",
+    "bank_name": "Standard Chartered Bank",
+    "bank_balance": {
+      "flag": 1,
+      "number": "09987123123",
+      "info": "BAL"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09987123123",
+      "info": "TXN"
+    },
+    "customer_no": ""
+  }
+,
+  {
+    "img_name" :"state_bank_of_india",
+    "bank_name": "State bank of India- SBI",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09223766666",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "09223866666",
+      "info": ""
+    },
+    "customer_no": "18004253800"
+  }
+,
+  {
+    "img_name" :"svc_bank",
+    "bank_name": "SVC Co-Operative Bank",
+    "bank_balance": {
+      "flag": 1,
+      "number": "09820620454",
+      "info": "SBAL"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09820620454",
+      "info": "STRA"
+    },
+    "customer_no": ""
+  }
+,
+  {
+    "img_name" :"syndicate_bank",
+    "bank_name": "Syndicate Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09210332255",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09210332255",
+      "info": "STXN"
+    },
+    "customer_no": "08026639966"
+  }
+,
+  {
+    "img_name" :"tamilnad_mercantile_bank",
+    "bank_name": "Tamilnad Mercantile Bank - TMB",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09211937373",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "",
+      "info": ""
+    },
+    "customer_no": "18004250426"
+  }
+,
+  {
+    "img_name" :"thane_bank",
+    "bank_name": "Thane Bharat Sahakari Bank",
+    "bank_balance": {
+      "flag": 1,
+      "number": "0922317001",
+      "info": "SBAL"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "0922317001",
+      "info": "LST3"
+    },
+    "customer_no": "02225333604"
+  }
+,
+  {
+    "img_name" :"ahmedabad_mercantile",
+    "bank_name": "The Ahmedabad Mercantile Co-op. Bank Ltd.",
+    "bank_balance": {
+      "flag": 0,
+      "number": "08030636264",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "08030647070",
+      "info": ""
+    },
+    "customer_no": "07926426582"
+  }
+,
+  {
+    "img_name" :"gujarat_state_bank",
+    "bank_name": "The Gujarat State Co-op. Bank Ltd.",
+    "bank_balance": {
+      "flag": 1,
+      "number": "09223285005",
+      "info": "BALAVL <A/c No> <MPIN>"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09223285005",
+      "info": "LATRAN <MPIN>"
+    },
+    "customer_no": "07927459000"
+  }
+,
+  {
+    "img_name" :"kalupur_bank",
+    "bank_name": "The Kalupr Commercial Co-op. Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09712906224",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "09712906225",
+      "info": ""
+    },
+    "customer_no": "07927582020"
+  }
+,
+  {
+    "img_name" :"mehsana_bank",
+    "bank_name": "The Mahsana Urban Co-op. Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09266692668",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "",
+      "info": ""
+    },
+    "customer_no": "02762257833"
+  }
+,
+  {
+    "img_name" :"vracha_cooperative_bank_limited",
+    "bank_name": "The Varachha Co-op. Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "02614008080",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "",
+      "info": ""
+    },
+    "customer_no": "02614008000"
+  }
+,
+  {
+    "img_name" :"tjsb_bank",
+    "bank_name": "TJSB Sahakari Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09212005550",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "9870888210",
+      "info": "LST3 <A/C Type> <A/C No>"
+    },
+    "customer_no": "1800223466"
+  }
+,
+  {
+    "img_name" :"uco_bank",
+    "bank_name": "UCO Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09278792787",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "09213125125",
+      "info": ""
+    },
+    "customer_no": "18001030123"
+  }
+,
+  {
+    "img_name" :"union_bank_of_india",
+    "bank_name": "Union Bank of India",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09223008586",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09223008486",
+      "info": "UMNS"
+    },
+    "customer_no": "18002082244"
+  },
+  {
+    "img_name" :"united_bank_of_india",
+    "bank_name": "United Bank of India - UBI",
+    "bank_balance": {
+      "flag": 1,
+      "number": "09223173933",
+      "info": "BAL <MPIN>"
+    },
+    "mini_statement": {
+      "flag": 1,
+      "number": "09223173933",
+      "info": "MINI <MPIN>"
+    },
+    "customer_no": "18003450345"
+  }
+,
+  {
+    "img_name" :"vijaya_bank",
+    "bank_name": "Vijaya Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "18001035525",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "18001035535",
+      "info": ""
+    },
+    "customer_no": "18004255885"
+  }
+,
+  {
+    "img_name" :"yes_bank",
+    "bank_name": "Yes Bank",
+    "bank_balance": {
+      "flag": 0,
+      "number": "09223920000",
+      "info": ""
+    },
+    "mini_statement": {
+      "flag": 0,
+      "number": "09223921111",
+      "info": ""
+    },
+    "customer_no": "18002000"
+  }
+]

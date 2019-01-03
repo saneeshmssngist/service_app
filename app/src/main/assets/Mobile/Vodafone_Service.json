@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Balance check ussd code",
+    "ussd": "*141#"
+  },
+  {
+    "title": "Internet Balance check code",
+    "ussd": "*111*2*2# "
+  },
+  {
+    "title": "Balance transfer ussd code",
+    "ussd": "*111*3# "
+  },
+  {
+    "title": "Vodafone Loan Code ",
+    "ussd": "*111*1*6*1#"
+  },
+  {
+    "title": "Vodafone Miss Call Alert ",
+    "ussd": "*888*810#"
+  },
+  {
+    "title": "Vodafone Internet data Loan Code",
+    "ussd": "*111*1*6*2#"
+  },
+  {
+    "title": "Vodafone CallerTune Service",
+    "ussd": "*567#"
+  },
+  {
+    "title": "Requests and Complaints Helpline Number",
+    "ussd": "198"
+  },
+  {
+    "title": "Customer care number of India",
+    "ussd": "111"
+  },
+  {
+    "title": "Best offer check (Latest best offer)",
+    "ussd": "*121#"
+  },
+  {
+    "title": "Find Vodafone Phone number (Know mobile no)",
+    "ussd": "*111*2#"
+  },
+  {
+    "title": "Vodafone Last Recharge Details Check",
+    "ussd": "*111*2*7#"
+  },
+  {
+    "title": "Vodafone Callertune Song Change Request",
+    "ussd": "*111*3*3#"
+  },
+  {
+    "title": "Vodafone Best Internet Offer Check Code",
+    "ussd": "*111*1*5#"
+  }
+]

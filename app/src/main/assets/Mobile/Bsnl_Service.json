@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Balance check USSD code",
+    "ussd": "*124#"
+  },
+  {
+    "title": "Internet Balance check code",
+    "ussd": "*124#"
+  },
+  {
+    "title": "BSNL credit talktime loan",
+    "ussd": "*518#"
+  },
+  {
+    "title": "Customer care number ",
+    "ussd": "1503"
+  },
+  {
+    "title": "BSNL Current Call Rate and Plan Voucher Check Code",
+    "ussd": "*123*3#"
+  },
+  {
+    "title": "BSNL (know) Own Number Check Code",
+    "ussd": "*222#"
+  },
+  {
+    "title": "BSNL Last call/SMS/GPRS enquiry",
+    "ussd": "*102#"
+  },
+  {
+    "title": "BSNL Recharge with paper coupon Code",
+    "ussd": "*123*2*<Voucher Code>#"
+  },
+  {
+    "title": "BSNL Last 5 Calls Detail Check Code",
+    "ussd": "*123*4#"
+  }
+]

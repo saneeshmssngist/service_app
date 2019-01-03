@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b8860b</color>
+    <color name="colorPrimaryDark">#b8860b</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#5f65da</color>
+    <color name="light_blue">#acafea</color>
+
+    <color name="light_black">#595656</color>
+    <color name="blue_btn">#3321ff</color>
+    <color name="light_grey">#dfdfdf</color>
+
+    <color name="avLoadingColor">#ea123a</color>
+    <color name="cardColor">#b8860b</color>
+
+    <color name="yellow">#edfa00</color>
+    <color name="red">#ea2812</color>
+    <color name="bottombar">#b8860b</color>
+
+</resources>

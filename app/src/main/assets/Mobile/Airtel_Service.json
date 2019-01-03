@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Balance check ussd code",
+    "ussd": "*123#"
+  },
+  {
+    "title": "Internet Balance check code",
+    "ussd": "*124#"
+  },
+  {
+    "title": "BSNL credit talktime loan",
+    "ussd": "*518#"
+  },
+  {
+    "title": "Bsnl Caller Tune Service",
+    "ussd": "*567#"
+  },
+  {
+    "title": "Customer care number of India",
+    "ussd": "1503"
+  },
+  {
+    "title": "Bsnl customer care mobile number",
+    "ussd": "1800-180-1503"
+  },
+  {
+    "title": "BSNL (know) Own Number Check Code - *222# OR *888# OR *1#",
+    "ussd": "*222#"
+  },
+  {
+    "title": "BSNL Recharge by Card USSD Codes",
+    "ussd": " *124*2#"
+  },
+  {
+    "title": "BSNL Last 5 Calls Detail Check Code",
+    "ussd": " *123*4#"
+  }
+]

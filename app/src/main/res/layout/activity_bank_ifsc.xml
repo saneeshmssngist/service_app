@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:fitsSystemWindows="true"
+    tools:context="com.saneesh.serviceapp.BankIFSCActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Bank Name"
+            android:gravity="center_vertical"
+            android:textSize="14sp"
+            />
+        <TextView
+            android:id="@+id/txtViewBank"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="Bank"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:textSize="18sp"
+            android:background="@drawable/ifsc_text_bg"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="State"
+            android:gravity="center_vertical"
+            android:textSize="14sp"
+            />
+        <TextView
+            android:id="@+id/txtViewState"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="State"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:textSize="18sp"
+            android:background="@drawable/ifsc_text_bg"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="District"
+            android:gravity="center_vertical"
+            android:textSize="14sp"
+            />
+        <TextView
+            android:id="@+id/txtViewDistrict"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="District"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:textSize="18sp"
+            android:background="@drawable/ifsc_text_bg"
+
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Branch"
+            android:gravity="center_vertical"
+            android:textSize="14sp"
+            />
+        <TextView
+            android:id="@+id/txtViewBranch"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Branch"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:textSize="18sp"
+            android:background="@drawable/ifsc_text_bg"
+
+            />
+
+        <LinearLayout
+            android:id="@+id/layoutBottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="gone"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="15dp"
+                >
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.5"
+                    android:text="IFSC Code :"
+                    android:textSize="17sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/light_black"
+                    />
+                <TextView
+                    android:id="@+id/txtViewIFSC"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.5"
+                    android:text="123456"
+                    android:textSize="17sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp"
+
+                >
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.5"
+                    android:text="MICR Code :"
+                    android:textSize="17sp"
+                    android:textColor="@color/light_black"
+                    android:textStyle="bold"
+                    />
+                <TextView
+                    android:id="@+id/txtViewMICR"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.5"
+                    android:text="ADSVH1245"
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp"
+                >
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.5"
+                    android:text="Address :"
+                    android:textSize="17sp"
+                    android:textColor="@color/light_black"
+                    android:textStyle="bold"
+                    />
+                <TextView
+                    android:id="@+id/txtViewAddress"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.5"
+                    android:text="manjakkal"
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp"
+                >
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.5"
+                    android:text="Phone no :"
+                    android:textSize="17sp"
+                    android:textColor="@color/light_black"
+                    android:textStyle="bold"
+                    />
+                <TextView
+                    android:id="@+id/txtViewPhone"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2.5"
+                    android:text="9605408091"
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/layoutShare"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="right|center_vertical"
+            android:visibility="gone"
+            >
+
+            <com.airbnb.lottie.LottieAnimationView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                app:lottie_autoPlay="true"
+                app:lottie_fileName="share_lottie.json"
+                app:lottie_loop="true" />
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+
+    </ScrollView>
+</RelativeLayout>
